@@ -1,4 +1,4 @@
-# My_SQL_Pizza_Quarry_Project
+# My_SQL_Pizza_quaries_Project
 🍕 Pizza Sales Data Analysis - SQL Project
 📋 Table of Contents
 Project Overview
